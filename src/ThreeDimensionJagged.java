@@ -14,7 +14,7 @@ public class ThreeDimensionJagged
        ar[1][0]=new int[3];
        ar[1][1]=new int[4];
      
-     
+    
       //System.out.println("Please Enter the Student Marks");
       
       for(int i=0;i<ar.length;i++)
