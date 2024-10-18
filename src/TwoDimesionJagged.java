@@ -14,7 +14,7 @@ public class TwoDimesionJagged
      ar[1]=new int[2];
      ar[2]=new int[3];
      
-      //System.out.println("Please Enter the Student Marks");
+      //System.out.println("Plase Enter the Student Marks");
       
       for(int i=0;i<ar.length;i++)
       {
