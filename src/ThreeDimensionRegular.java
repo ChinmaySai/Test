@@ -14,7 +14,7 @@ public class ThreeDimensionRegular
      ar[2]=new int[3];*/
      
       //System.out.println("Please Enter the Student Marks");
-      
+     
       for(int i=0;i<ar.length;i++)
       {
           for(int j=0;j<ar[i].length;j++)
